@@ -9,12 +9,16 @@ Our project divides in two, a SMOTE Analysis and an Asteroid Simulator.
 ## Smote Analysis
 SMOTE Analysis section contains the algorithm we utilized for the machine learning in Python, it uses numpy, pandas and plotly.graph_objects libraries. In there you can find the results of the processed Meteorite Landings data from NASA, this are also represented in pie charts where you can appreciate how uneven and unbalanced is the data. 
 
-![alt text](https://ibb.co/ZznG8yt)
+![alt text](https://i.ibb.co/Swh5nqW/Screenshot-83.png)
 
 After that it shows the new synthetic data that was created where you observe the new balanced data.
-![alt text](https://ibb.co/WzRLjXZ)
+
+![alt text](https://i.ibb.co/Zgb07r5/Screenshot-82.png)
+
 You can also compare their locations in the graphs.
+
 ![alt text](https://i.ibb.co/99SsPRT/Screenshot-81.png) 
+
 The way SMOTE works is by finding the nearest neighbor of each data point and then randomly fills the space between until it finally gets a more equally distributed data.
 
 ## Asteroid Simulator
