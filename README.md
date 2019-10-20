@@ -14,7 +14,7 @@ SMOTE Analysis section contains the algorithm we utilized for the machine learni
 After that it shows the new synthetic data that was created where you observe the new balanced data.
 ![alt text](https://ibb.co/WzRLjXZ)
 You can also compare their locations in the graphs.
-![alt text](https://ibb.co/jvsgt7M) 
+![alt text](https://i.ibb.co/99SsPRT/Screenshot-81.png) 
 The way SMOTE works is by finding the nearest neighbor of each data point and then randomly fills the space between until it finally gets a more equally distributed data.
 
 ## Asteroid Simulator
