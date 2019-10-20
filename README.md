@@ -3,7 +3,7 @@ We are Asteroid Builders and our challenge is “Chasers of the Lost Data”, th
 The branch we focused on is Meteorite Landings, there’s a lot of meteorite landings we miss because is difficult to access to them, some other times they disintegrate or are way too small to find them. A lot of meteorites are found in Antarctica because is easier to find them in there, but as a result, data tends to only that region.
 
 ## Smote
-Our solution is SMOTE (Synthetic Minority Over-sampling TEchnique), created by Nitesh V. Chawla, 	Kevin W. Bowyer, Lawrence O. Hall and W. Philip Kegelmeyer; this technique for machine learning creates new data based on small, undistributed examples and replicates a more balanced new data so in that way researchers can get a way to investigate more of the rare phenomena.
+Our solution is SMOTE (Synthetic Minority Over-sampling TEchnique), created by Nitesh V. Chawla, 	Kevin W. Bowyer, Lawrence O. Hall and W. Philip Kegelmeyer; this machine learning technique creates new data based on small, unrepresented examples and generates a more balanced  dataset.
 Our project divides in two, a SMOTE Analysis and an Asteroid Simulator.
 
 ## Smote Analysis
